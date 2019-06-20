@@ -1,0 +1,82 @@
+
+/**Theme color. please replace with your own color variable. 
+\**/
+a:hover, a:focus, a:active {
+  color: #2c79cb; }
+
+.color-text {
+  color: #2c79cb; }
+
+.bg-theme {
+  background: #2c79cb; }
+
+.btn.btn-theme {
+  background: #2c79cb; }
+
+.loader-icon {
+  border-right: 3px solid #2c79cb !important; }
+
+.scroll-top {
+  background: #2c79cb; }
+
+.nav.navbar-nav > li > a.btn-call-to-action {
+  background: #2c79cb; }
+
+.nav.navbar-nav > li > a:hover,
+.nav.navbar-nav > li > a:active,
+.nav.navbar-nav > li > a:focus {
+  color: #2c79cb; }
+
+.nav.navbar-nav > li > a.btn-call-to-action:hover,
+.nav.navbar-nav > li > a.btn-call-to-action:active,
+.nav.navbar-nav > li > a.btn-call-to-action:focus {
+  background: #2c79cb; }
+
+.navbar-toggle {
+  background: #2c79cb; }
+
+.feature-slider .owl-nav > div:hover {
+  background: #2c79cb; }
+
+#fun-facts:after {
+  background: #2c79cb;
+  background: rgba(145, 94, 223, 0.9); }
+
+.owl-dot.active {
+  background: #2c79cb; }
+
+.pricing-plan:hover .plan-value > h4,
+.pricing-plan.recommanded .plan-value > h4 {
+  color: #2c79cb;
+}
+
+.pricing-plan:hover .plan-head,
+.pricing-plan.recommanded .plan-head {
+  color: #2c79cb;
+}
+
+.pricing-plan:hover .btn.btn-theme,
+.pricing-plan.recommanded .btn.btn-theme {
+  background: #2c79cb;
+}
+.team-overlay {
+  background: #2c79cb;
+  background: rgba(145, 94, 223, 0.8); }
+
+.team-social > a {
+  background: #2c79cb; }
+
+.team-social > a:hover {
+  color: #2c79cb; }
+
+.success-message {
+  color: #2c79cb; }
+
+.footer-bottom i.fa {
+  color: #2c79cb; }
+
+.switcher-trigger {
+  color: #2c79cb; }
+
+.color-switcher i.fa.fa-smile-o {
+  color: #2c79cb; }
